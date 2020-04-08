@@ -1,4 +1,4 @@
-
+# change this to your working directory
 FILE_NAME <- "3150 DATASET.xlsx"
 
 open_excel <- function() {
